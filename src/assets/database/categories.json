@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Nivel",
+        "img": "../src/assets/img/star.svg"
+    },
+    {
+        "name": "Perfil",
+        "img": "../src/assets/img/profile.svg"
+    },
+    {
+        "name": "Matrimonio",
+        "img": "../src/assets/img/heart.svg"
+    },
+    {
+        "name": "Roleo",
+        "img": "../src/assets/img/neko.svg"
+    },
+    {
+        "name": "Sugerencias",
+        "img": "../src/assets/img/package.svg"
+    }
+]

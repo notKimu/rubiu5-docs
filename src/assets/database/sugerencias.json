@@ -1,0 +1,8 @@
+[
+    {
+        "name": "sugerir",
+        "options": "<texto>",
+        "description": "Sugiere algo para ayudar a mejorar el bot!",
+        "level": "0"
+    }
+]

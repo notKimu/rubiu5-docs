@@ -1,0 +1,26 @@
+[
+    {
+        "name": "pedir-matrimonio",
+        "options": "<miembro>",
+        "description": "Pide a alguien que se case contigo.",
+        "level": "10"
+    },
+    {
+        "name": "aceptar-matrimonio",
+        "options": "<miembro>",
+        "description": "Acepta la petición de matrimonio de la persona que indiques.",
+        "level": "10"
+    },
+    {
+        "name": "rechazar-matrimonio",
+        "options": "<miembro>",
+        "description": "Rechaza la petición de matrimonio de la persona que indiques.",
+        "level": "10"
+    },
+    {
+        "name": "divorcio",
+        "options": "",
+        "description": "Divorciate de tu actual pareja.",
+        "level": "10"
+    }
+]

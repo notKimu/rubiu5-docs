@@ -1,0 +1,20 @@
+[
+    {
+        "name": "profile",
+        "options": "<miembro?>",
+        "description": "Muestra carta de perfil o la del miembro que indiques.",
+        "level": "0"
+    },
+    {
+        "name": "descripción",
+        "options": "",
+        "description": "Cambia la descripción que se muestra en tu /profile.",
+        "level": "30"
+    },
+    {
+        "name": "profile-image",
+        "options": "<imagen>",
+        "description": "Cambia la imagen de fondo en tu /profile. Intenta que sea 400x500 en PNG o JPG.",
+        "level": "30"
+    }
+]

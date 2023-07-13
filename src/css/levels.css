@@ -1,0 +1,29 @@
+.lvl-tag {
+    width: fit-content;
+    border-radius: var(--rem-02);
+    padding: var(--rem-02);
+}
+
+.lvl0 {
+    color: azure;
+    background-color: #ffffff1f;
+    border: 1px solid azure;
+}
+
+.lvl5 {
+    color: #ff7bff;
+    background-color: #ff7bff1f;
+    border: 1px solid #ff7bff;
+}
+
+.lvl10 {
+    color: #8877ff;
+    background-color: #8877ff1f;
+    border: 1px solid #8877ff;
+}
+
+.lvl30 {
+    color: #7bd3d3;
+    background-color: #7bd3d31f;
+    border: 1px solid #7bd3d3;
+}

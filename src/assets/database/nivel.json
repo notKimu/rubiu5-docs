@@ -1,0 +1,20 @@
+[
+    {
+        "name": "rank",
+        "options": "<miembro?>",
+        "description": "Muestra tu progreso de nivel en una carta.",
+        "level": "0"
+    },
+    {
+        "name": "leaderboard",
+        "options": "",
+        "description": "Enseña a los que más XP tienen del servidor.",
+        "level": "0"
+    },
+    {
+        "name": "rank-image",
+        "options": "<imagen>",
+        "description": "Cambia la imagen de fondo en tu /rank. Intenta que sea 934x282 en PNG o JPG.",
+        "level": "30"
+    }
+]

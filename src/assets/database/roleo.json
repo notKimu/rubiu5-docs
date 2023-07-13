@@ -1,0 +1,38 @@
+[
+    {
+        "name": "bite",
+        "options": "<miembro>",
+        "description": "Muerde a alguien de forma cariñosa (o no).",
+        "level": "0"
+    },
+    {
+        "name": "hug",
+        "options": "<miembro>",
+        "description": "Dale un abrazo a alguien para mostrarle cariño.",
+        "level": "0"
+    },
+    {
+        "name": "kiss",
+        "options": "<miembro>",
+        "description": "Da besitos a quien quieras dar afecto.",
+        "level": "0"
+    },
+    {
+        "name": "pat",
+        "options": "<miembro>",
+        "description": "Da palmaditas en la cabecita delicadamente (o no) a alguien.",
+        "level": "0"
+    },
+    {
+        "name": "punch",
+        "options": "<miembro>",
+        "description": "Dale un putazo a alguien que se lo merezca (o a un inocente).",
+        "level": "0"
+    },
+    {
+        "name": "slap",
+        "options": "<miembro>",
+        "description": "Abofetea a quien te esté molestando o simplemente quieras pegar.",
+        "level": "0"
+    }
+]

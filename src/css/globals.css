@@ -1,0 +1,71 @@
+@font-face {
+    font-family: "Explorer";
+    src: url("../assets/fonts/osaka-re.ttf");
+}
+@font-face {
+    font-family: "Orbit";
+    src: url("../assets/fonts/Orbit-Regular.ttf");
+}
+
+:root {
+    --main-font: "Explorer";
+    --text-font: "Orbit";
+
+    --bg-color: #000000;
+    --text-color: azure;
+
+    --command-border-color: #00ffae4b;
+    --command-bg-color: #00ffff14;
+
+    --rem-01: .1rem;
+    --rem-02: .2rem;
+    --rem-05: .5rem;
+    --rem-1:   1rem;
+    --rem-2:   2rem;
+    --rem-25:  2.5rem;
+    --rem-3:   3rem;
+    --rem-35:  3.5rem;
+    --rem-4:   4rem;
+    --rem-5:   5rem;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    transition: .1s;
+}
+
+body,
+html {
+    background-color: var(--bg-color);
+    background-image: url("../assets/img/grid.svg");
+    background-attachment: fixed;
+    background-size: cover;
+
+    color: azure;
+    font-family: var(--text-font);
+    
+    overflow-x: hidden;
+}
+
+a {
+    color: unset;
+    text-decoration: none;
+}
+
+.title {
+    font-family: var(--main-font);
+    font-size: var(--rem-3);
+}
+
+/**THEMES */
+.nivel {
+    --command-border-color: #ffd4786f;
+    --command-bg-color: #ffed902d;
+}
+
+.matrimonio {
+    --command-border-color: #ff78ff6f;
+    --command-bg-color: #ff90ff2d;
+}
