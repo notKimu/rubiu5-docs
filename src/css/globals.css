@@ -60,12 +60,27 @@ a {
 }
 
 /**THEMES */
+.matrimonio {
+    --command-border-color: #ff78ff6f;
+    --command-bg-color: #ff90ff2d;
+}
+
 .nivel {
     --command-border-color: #ffd4786f;
     --command-bg-color: #ffed902d;
 }
 
-.matrimonio {
-    --command-border-color: #ff78ff6f;
-    --command-bg-color: #ff90ff2d;
+.perfil {
+    --command-border-color: #d7ff786f;
+    --command-bg-color: #c9ff902d;
+}
+
+.roleo {
+    --command-border-color: #78fff46f;
+    --command-bg-color: #90ffe32d;
+}
+
+.sugerencias {
+    --command-border-color: #ff78dd6f;
+    --command-bg-color: #ff90bc2d;
 }

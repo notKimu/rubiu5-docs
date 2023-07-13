@@ -1,22 +1,22 @@
 [
-    {
-        "name": "Nivel",
-        "img": "../src/assets/img/star.svg"
-    },
-    {
-        "name": "Perfil",
-        "img": "../src/assets/img/profile.svg"
-    },
-    {
-        "name": "Matrimonio",
-        "img": "../src/assets/img/heart.svg"
-    },
-    {
-        "name": "Roleo",
-        "img": "../src/assets/img/neko.svg"
-    },
-    {
-        "name": "Sugerencias",
-        "img": "../src/assets/img/package.svg"
-    }
+  {
+    "name": "Nivel",
+    "img": "https://cdn.discordapp.com/attachments/1112890871109664848/1128852354565931172/star.svg"
+  },
+  {
+    "name": "Perfil",
+    "img": "https://cdn.discordapp.com/attachments/1112890871109664848/1128852354201034813/profile.svg"
+  },
+  {
+    "name": "Matrimonio",
+    "img": "https://cdn.discordapp.com/attachments/1112890871109664848/1128852353802571896/heart.svg"
+  },
+  {
+    "name": "Roleo",
+    "img": "https://cdn.discordapp.com/attachments/1112890871109664848/1128852353399914637/neko.svg"
+  },
+  {
+    "name": "Sugerencias",
+    "img": "https://cdn.discordapp.com/attachments/1112890871109664848/1128852353043402763/package.svg"
+  }
 ]
